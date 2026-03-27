@@ -1,0 +1,11 @@
+{
+  "name": "face-attendance-server",
+  "private": true,
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "echo \"add backend dev command\"",
+    "start": "echo \"add backend start command\"",
+    "lint": "echo \"add backend lint command\""
+  }
+}

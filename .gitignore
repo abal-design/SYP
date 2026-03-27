@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Uploads and temp data
+server/uploads/avatars/*
+server/uploads/reports/*
+!server/uploads/avatars/.gitkeep
+!server/uploads/reports/.gitkeep
