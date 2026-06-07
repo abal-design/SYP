@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "echo \"add frontend dev command\"",
-    "build": "echo \"add frontend build command\"",
+    "build": "npm run dev"",
     "lint": "echo \"add frontend lint command\""
   }
 }
